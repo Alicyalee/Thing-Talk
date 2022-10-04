@@ -34,11 +34,9 @@ public class new_class {
 		System.out.println("3"+3+5);
 		System.out.println("3"+"숫자");
 	
+		System.out.printf("%2d\n",127);
 		
-		
-		
-		
-
+		System.out.printf("%1f\n",14.9876);
 	}
 
 }
