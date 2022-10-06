@@ -12,7 +12,7 @@ public class Test {
 		int hour = 99980 / 3600;
 		int min = (99980 % 3600)/60;
 		int sec = 99980 % 60;
-		System.out.println(hour+"시간"+ min+"분"+sec+"초");;
+		System.out.println(hour+"시간"+ min+"분"+sec+"초");
 
 	}
 
